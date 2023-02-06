@@ -1,0 +1,150 @@
+[
+  {
+    "tituloArea" : "A: Textura dos alimentos",
+    "questoes" : [
+      {"id" : 1,"descricao" : "Come alimento batido/amassado/coado"},
+      {"id" : 2,"descricao" : "Come alimento moído/granulado"},
+      {"id" : 3,"descricao" : "Come alimento picado/em pedaços"},
+      {"id" : 4,"descricao" : "Come comidas de texturas variadas"}
+    ]
+  },
+  {
+    "tituloArea" : "B: Utilização de utensílios",
+    "questoes" : [
+      {"id" : 5,"descricao" : "Alimenta-se com os dedos"},
+      {"id" : 6,"descricao" : "Pega comida com colher e leva até a boca"},
+      {"id" : 7,"descricao" : "Usa bem a colher"},
+      {"id" : 8,"descricao" : "Usa bem o garfo"},
+      {"id" : 9,"descricao" : "Usa faca para passar manteiga no pão, corta alimentos macios"}
+    ]
+  },
+  {
+    "tituloArea" : "C: Utilização de recipientes de beber",
+    "questoes" : [
+      {"id" : 10,"descricao" : "Segura a mamadeira ou copo com bico ou canudo"},
+      {"id" : 11,"descricao" : "Levanta copo para beber, mas pode derramar"},
+      {"id" : 12,"descricao" : "Levanta, c/ firmeza, copo sem tampa, usando as 2 mãos"},
+      {"id" : 13,"descricao" : "Levanta, c/firmeza, copo sem tampa, usando 1 das mãos"},
+      {"id" : 14,"descricao" : "Serve-se de líquidos de uma jarra ou embalagem"}
+    ]
+  },
+  {
+    "tituloArea" : "D: Higiene oral",
+    "questoes" : [
+      {"id" : 15,"descricao" : "Abre a boca para a limpeza dos dentes"},
+      {"id" : 16,"descricao" : "Segure escova de dentes"},
+      {"id" : 17,"descricao" : "Escova os dentes, porém sem escovação completa"},
+      {"id" : 18,"descricao" : "Escova os dentes completamente"},
+      {"id" : 19,"descricao" : "coloca creme dental nas escova"}
+    ]
+  },
+  {
+    "tituloArea" : "E: Cuidado com os cabelos",
+    "questoes" : [
+      {"id" : 20,"descricao" : "mantém a cabeça estável enquanto o cabelo é penteado"},
+      {"id" : 21,"descricao" : "leva pente ou escova até o cabelo"},
+      {"id" : 22,"descricao" : "Escova ou penteia o cabelo"},
+      {"id" : 23,"descricao" : "É capaz de desembaraçar e partir o cabelo"}
+    ]
+  },
+  {
+    "tituloArea" : "F: Cuidado com o nariz",
+    "questoes" : [
+      {"id" : 24,"descricao" : "Permite que o nariz seja limpo"},
+      {"id" : 25,"descricao" : "Assoa o nariz com o lenço"},
+      {"id" : 26,"descricao" : "Limpa nariz usando lenço ou papel quando solicitado"},
+      {"id" : 27,"descricao" : "Limpa nariz usando lenço ou papel sem ser solicitado"},
+      {"id" : 28,"descricao" : "Limpa e assoa o nariz sem ser solicitado"}
+    ]
+  },
+  {
+    "tituloArea" : "G: Lavar as mãos",
+    "questoes" : [
+      {"id" : 29,"descricao" : "Mantém as mãos elevadas para que as mesmas sejam lavadas"},
+      {"id" : 30,"descricao" : "Esfrega as mãos um na outra para limpá-las"},
+      {"id" : 31,"descricao" : "Abre e fecha torneira e utiliza sabão"},
+      {"id" : 32,"descricao" : "Lava as mãos completamente"},
+      {"id" : 33,"descricao" : "Seca as mãos completamente"}
+    ]
+  },
+  {
+    "tituloArea" : "H: Lavar o corpo e a face",
+    "questoes" : [
+      {"id" : 34,"descricao" : "Tenta lavar partes do corpo"},
+      {"id" : 35,"descricao" : "lava o corpo completamente, não incluindo a face"},
+      {"id" : 36,"descricao" : "Utiliza sabonete (e esponja, se for costume)"},
+      {"id" : 37,"descricao" : "Seca o corpo completamente"},
+      {"id" : 38,"descricao" : "Lava e seca completamente"},
+      {"id" : 39,"descricao" : "Auxilia empurrando os braços p/ vestir a manga da camisa"}
+    ]
+  },
+  {
+    "tituloArea" : "I: Agasalho / vestimentas abertas na frente",
+    "questoes" : [
+      {"id" : 40,"descricao" : "Retira camisetas, vestido ou agasalho sem fecho"},
+      {"id" : 41,"descricao" : "Coloca a camiseta, vestido o agasalho sem fecho"},
+      {"id" : 42,"descricao" : "Coloca e retira camisas abertas na frente, porém s/ fechar"},
+      {"id" : 43,"descricao" : "Coloca e retira camisas abertas na frente, fechando-as"}
+    ]
+  },
+  {
+    "tituloArea" : "J: Fechos",
+    "questoes" : [
+      {"id" : 44,"descricao" : "Tenta participar no fechamento de vestimentas"},
+      {"id" : 45,"descricao" : "Abre e fecha fecho de correr, sem separá-lo ou fechar o botão"},
+      {"id" : 46,"descricao" : "Abre e fecha colchete de pressão"},
+      {"id" : 47,"descricao" : "Abotoa e desabotoa"},
+      {"id" : 48,"descricao" : "Abre e fecha o fecho de correr (zíper), separando e fechando colchete/botão"}
+    ]
+  },
+  {
+    "tituloArea" : "K: Calças",
+    "questoes" : [
+      {"id" : 49,"descricao" : "Auxilia colocando as pernas dentro da calça para vestir"},
+      {"id" : 50,"descricao" : "Retira calças com elásticos na cintura"},
+      {"id" : 51,"descricao" : "Veste calças com elástico na cintura"},
+      {"id" : 52,"descricao" : "Retira calças, incluindo abrir fechos"},
+      {"id" : 53,"descricao" : "Veste calças, incluindo fechar fechos"}
+    ]
+  },
+  {
+    "tituloArea" : "L: Sapatos / Meias",
+    "questoes" : [
+      {"id" : 54,"descricao" : "Retira meias e abre os sapatos"},
+      {"id" : 55,"descricao" : "Calça sapatos/sandálias"},
+      {"id" : 56,"descricao" : "Calça meias"},
+      {"id" : 57,"descricao" : "Coloca o sapato no pé correto; maneja fechos de velcro"},
+      {"id" : 58,"descricao" : "Amarra sapatos (prepara cadarço)"}
+    ]
+  },
+  {
+    "tituloArea" : "M: Tarefas de toaletes (roupas, uso do banheiro e limpeza)",
+    "questoes" : [
+      {"id" : 59,"descricao" : "Auxilia no manejo de roupas"},
+      {"id" : 60,"descricao" : "Tenta limpar-se depois de utilizar o banheiro"},
+      {"id" : 61,"descricao" : "Utiliza vaso sanitário, papel higiênico e dá descarga"},
+      {"id" : 62,"descricao" : "Lida com roupas antes e depois de utilizar o banheiro"},
+      {"id" : 63,"descricao" : "Limpa-se completamente depois de evacuar"}
+    ]
+  },
+  {
+    "tituloArea" : "N: Controle urinário",
+    "questoes" : [
+      {"id" : 64,"descricao" : "Indica quando molhou frauda ou calça"},
+      {"id" : 65,"descricao" : "Ocasionalmente indica necessidade de urinar (durante o dia)"},
+      {"id" : 66,"descricao" : "Indica, consistentemente, necessidade de urinar e com tempo de utilizar o banheiro (durante o dia)"},
+      {"id" : 67,"descricao" : "Vai ao banheiro sozinho para urinar (durante o dia)"},
+      {"id" : 68,"descricao" : "Mantém-se constantemente seco durante o dia e a noite"}
+    ]
+  },
+  {
+    "tituloArea" : "O: Controle intestinal",
+    "questoes" : [
+      {"id" : 69,"descricao" : "Indica necessidade de ser trocado"},
+      {"id" : 70,"descricao" : "Ocasionalmente manifesta vontade de ir ao banheiro (durante o dia)"},
+      {"id" : 71,"descricao" : "Indica, constantemente, necessidade de evacuar e com tempo de utilizar o banheiro (durante o dia)"},
+      {"id" : 72,"descricao" : "Faz distinção entre urinar e evacuar"},
+      {"id" : 73,"descricao" : "Vai ao banheiro sozinho para evacuar, não tem acidentes intestinais"}
+    ]
+  }
+]

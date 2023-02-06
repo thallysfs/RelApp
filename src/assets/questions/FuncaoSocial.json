@@ -1,0 +1,128 @@
+[
+  {
+    "tituloArea" : "A: Compreensão do significado das palavras",
+    "questoes" : [
+      {"id" : 1,"descricao" : "Orienta-se pelo som"},
+      {"id" : 2,"descricao" : "Reage ao 'não'; reconhece próprio nome ou de alguma pessoa familiar"},
+      {"id" : 3,"descricao" : "Reconhece 10 palavras"},
+      {"id" : 4,"descricao" : "Entende quando você fala sobre relacionamentos entre pessoas e/ou coisas que são visíveis"},
+      {"id" : 5,"descricao" : "Entende quando você fala sobre tempo e seqüência de eventos"}
+    ]
+  },
+  {
+    "tituloArea" : "B: Compreensão de sentenças complexas",
+    "questoes" : [
+      {"id" : 6,"descricao" : "Compreende sentenças curtas sobre objetivos e pessoas familiares"},
+      {"id" : 7,"descricao" : "Compreende comando simples com palavras que descrevem pessoas ou coisas"},
+      {"id" : 8,"descricao" : "Compreende direções que descrevem onde alguma coisa esta"},
+      {"id" : 9,"descricao" : "Compreende comando de dois passos, utilizando se/então, antes/depois, primeiro/segundo etc."},
+      {"id" : 10,"descricao" : "Compreende duas sentenças que falam de um mesmo sujeito, mas de uma forma diferente."}
+    ]
+  },
+  {
+    "tituloArea" : "C: Uso funcional da comunicação",
+    "questoes" : [
+      {"id" : 11,"descricao" : "Nomeia objetos"},
+      {"id" : 12,"descricao" : "Usa palavras específicas ou gestos para direcionar ou requisitar ações de outras pessoas"},
+      {"id" : 13,"descricao" : "Procura informação fazendo perguntas"},
+      {"id" : 14,"descricao" : "Descreve ações ou objetos"},
+      {"id" : 15,"descricao" : "Fala sobre sentimentos ou pensamentos próprios"}
+    ]
+  },
+  {
+    "tituloArea" : "D: Complexidade da comunicação expressiva",
+    "questoes" : [
+      {"id" : 16,"descricao" : "Usa gestos que tem propósito adequado"},
+      {"id" : 17,"descricao" : "usa uma única palavra com significado adequado"},
+      {"id" : 18,"descricao" : "Combina duas palavras com significado adequado"},
+      {"id" : 19,"descricao" : "Usa sentenças de 4-5 palavras"},
+      {"id" : 20,"descricao" : "Conecta duas ou mais idéias para contar uma história"}
+    ]
+  },
+  {
+    "tituloArea" : "E: Resolução de problemas",
+    "questoes" : [
+      {"id" : 21,"descricao" : "Tenta indicar o problema ou dizer o que é necessário para ajudar a resolvê-lo"},
+      {"id" : 22,"descricao" : "Se transtornado por causa de um problema, a criança precisa ser ajudada imediatamente, ou o seu comportamento é prejudicado"},
+      {"id" : 23,"descricao" : "se transtornado por causa de um problema, a criança consegue pedir ajuda e esperar se houver de pouco tempo"},
+      {"id" : 24,"descricao" : "Em situações comuns, a criança descreve o problema e seus sentimentos com algum detalhe (geralmente não faz birra)"},
+      {"id" : 25,"descricao" : "Diante de algum problema comum, a criança pode procurar um adulto para trabalhar uma solução e conjunto"}
+    ]
+  },
+  {
+    "tituloArea" : "F: Jogo social interativo (adultos)",
+    "questoes" : [
+      {"id" : 26,"descricao" : "Mostra interesse em relação a outros"},
+      {"id" : 27,"descricao" : "Inicia uma brincadeira familiar"},
+      {"id" : 28,"descricao" : "aguarda a sua vez em um jogo simples, quando é dada dica de que é sua vez"},
+      {"id" : 29,"descricao" : "Tenta imitar uma ação prévia de um adulto durante uma brincadeira"},
+      {"id" : 30,"descricao" : "Durante a brincadeira, a criança pode sugerir passos novos ou diferentes, ou responder a uma sugestão de um adulto com uma outra idéia"}
+    ]
+  },
+  {
+    "tituloArea" : "G: Interação com os companheiros (crianças de idades semelhantes)",
+    "questoes" : [
+      {"id" : 31,"descricao" : "Percebe a presença de outras crianças e pode vocalizar ou gesticular para os companheiros"},
+      {"id" : 32,"descricao" : "Interage com outras crianças em situações breves e simples"},
+      {"id" : 33,"descricao" : "Tenta exercitar brincadeiras simples em uma atividade com outra criança"},
+      {"id" : 34,"descricao" : "Planeja e executa atividade cooperativa com outras crianças; brincadeira é complexa e mantida"},
+      {"id" : 35,"descricao" : "Brinca de jogos de regras"}
+    ]
+  },
+  {
+    "tituloArea" : "H: Brincadeira com objetos",
+    "questoes" : [
+      {"id" : 36,"descricao" : "Manipula brinquedos, objetos ou o corpo com intenção"},
+      {"id" : 37,"descricao" : "Usa objetos reais ou substituídos em seqüências simples de faz-de-conta"},
+      {"id" : 38,"descricao" : "Agrupa materiais para formar alguma coisa"},
+      {"id" : 39,"descricao" : "Inventa longas rotinas de faz-de-conta, envolvendo coisa que a criança já entende ou conhece"},
+      {"id" : 40,"descricao" : "Inventa seqüências elaboradas de faz-de-conta a partir da imaginação"}
+    ]
+  },
+  {
+    "tituloArea" : "I: Auto-informação",
+    "questoes" : [
+      {"id" : 41,"descricao" : "Diz o primeiro nome"},
+      {"id" : 42,"descricao" : "Diz o primeiro e último nome"},
+      {"id" : 43,"descricao" : "Dá o nome e informações descritivas sobre os membros da família"},
+      {"id" : 44,"descricao" : "Dá o endereço completo de casa; se no hospital, dá o nome do hospital e o número do quarto"},
+      {"id" : 45,"descricao" : "Dirige-se a um adulto para pedir auxílio sobre como voltar para a casa ou voltar ao quarto do hospital"},
+      {"id" : 46,"descricao" : "Tem uma noção geral do horário das refeições e das rotinas durante o dia"},
+      {"id" : 47,"descricao" : "Tem alguma noção da seqüência dos eventos familiares na semana"},
+      {"id" : 48,"descricao" : "Tem conceitos simples de tempo"},
+      {"id" : 49,"descricao" : "Associa um horário específico com atividades/eventos"},
+      {"id" : 50,"descricao" : "Olha o relógio regularmente ou pergunta as horas para cumprir o curso das obrigações"}
+    ]
+  },
+  {
+    "tituloArea" : "J: Tarefas domésticas",
+    "questoes" : [
+      { "id" : 51, "decricao" : "Começa a ajudar cuidar dos seus pertences se for dada uma orientação e ordens constantes" },
+      { "id" : 52, "decricao" : "Começa a ajudar nas tarefas domésticas simples se for dada uma orientação e ordens constantes" },
+      { "id" : 53, "decricao" : "Ocasionalmente inicia rotinas simples para cuidar dos seus próprios pertences; pode requisitar ajuda física ou ser lembrado de completá-las" },
+      { "id" : 54, "decricao" : "Ocasionalmente inicia tarefas domésticas simples; pode requisitar ajuda física ou ser lembrado de completá-las" },
+      { "id" : 55, "decricao" : "Inicia e termina pelo menos uma tarefa doméstica que envolve vários passos e decisões; pode requisitar ajuda física" }
+    ]
+  },
+  {
+    "tituloArea" : "K: Autoproteção",
+    "questoes" : [
+      { "id": 56, "decricao" : "Mostra cuidado apropriado quando esta perto de escadas"},
+      { "id": 57, "decricao" : "Mostra cuidado apropriado perto de objetos quentes ou cortantes"},
+      { "id": 58, "decricao" : "Ao atravessar a rua na presença de um adulto, a criança não precisa ser advertida sobre as normas de segurança"},
+      { "id": 59, "decricao" : "Sabe que não deve aceitar passeio, comida ou dinheiro de estranho"},
+      { "id": 60, "decricao" : "Atravessa rua movimentada, com segurança, na ausência de um adulto"}
+    ]
+  },
+  {
+    "tituloArea" : "L: Função comunitária",
+    "questoes" : [
+      { "id": 61, "decricao" : "A criança brinca em casa com segurança, sem precisar ser vigiada constantemente"},
+      { "id": 62, "decricao" : "Vai ao ambiente externo da casa com segurança e é vigiada apenas periodicamente"},
+      { "id": 63, "decricao" : "Segue regras/expectativas da escola e de estabelecimentos comunitários"},
+      { "id": 64, "decricao" : "Explora e atua em estabelecimentos comunitários sem supervisão"},
+      { "id": 65, "decricao" : "Faz transações em uma loja da vizinhança sem assistência"}
+    ]
+  }
+
+]

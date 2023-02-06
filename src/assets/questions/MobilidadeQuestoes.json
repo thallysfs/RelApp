@@ -1,0 +1,126 @@
+[
+  {
+    "tituloArea" : "A: Transferências no banheiro",
+    "questoes" : [
+      {"id" : 1,"descricao" : "Fica sentado se estiver apoiado em equipamento ou no adulto"},
+      {"id" : 2,"descricao" : "Fica sentado na privada ou no troninho"},
+      {"id" : 3,"descricao" : "Senta e levanta de privada baixa ou troninho"},
+      {"id" : 4,"descricao" : "Senta e levanta de privada própria para adulto"},
+      {"id" : 5,"descricao" : "Senta e levanta da privada sem usar seus próprios braços"}
+    ]
+  },
+  {
+    "tituloArea" : "B: Transferência de cadeiras / cadeiras de rodas",
+    "questoes" : [
+      {"id" : 6,"descricao" : "Fica sentado se estiver apoiado em equipamento ou adulto"},
+      {"id" : 7,"descricao" : "Fica sentado em cadeira ou banco sem apoio"},
+      {"id" : 8,"descricao" : "Senta e levanta de cadeira, mobília baixa/infantis"},
+      {"id" : 9,"descricao" : "Senta e levante de cadeira/cadeira de rodas de tamanho adulto"},
+      {"id" : 10,"descricao" : "senta e levanta de cadeira sem usar seus próprios braços"}
+    ]
+  },
+  {
+    "tituloArea" : "C: Transferências no carro / ônibus",
+    "questoes" : [
+      {"id" : 11,"descricao" : "mexe e sobe/desce da cadeirinha do carro / Sobe e desce do banco do ônibus"},
+      {"id" : 12,"descricao" : "Entra e sai do carro com pouco auxílio ou instrução / Move-se com ônibus em movimento"},
+      {"id" : 13,"descricao" : "Entra e sai do carro sem a assistência ou instrução / Desce a escada do ônibus"},
+      {"id" : 14,"descricao" : "Maneja sinto de segurança ou cinto da cadeirinha de carro / Passa na roleta"},
+      {"id" : 15,"descricao" : "Entra e sai do carro e abre e fecha a porta do mesmo / Sobe a escada do ônibus"}
+    ]
+  },
+  {
+    "tituloArea" : "D: Mobilidade na cama / Transferências",
+    "questoes" : [
+      {"id" : 16,"descricao" : "Passa de deitado para sentado na cama ou berço"},
+      {"id" : 17,"descricao" : "Passa para sentado na beirada da cama; deita a partir de sentado na beirada da cama"},
+      {"id" : 18,"descricao" : "Sobe e desce de sua própria cama"},
+      {"id" : 19,"descricao" : "Sobe e desce de sua própria cama, sem usar seus braços"}
+    ]
+  },
+  {
+    "tituloArea" : "E: Transferência no chuveiro",
+    "questoes" : [
+      {"id" : 20,"descricao" : "Entra no chuveiro"},
+      {"id" : 21,"descricao" : "Sai do chuveiro"},
+      {"id" : 22,"descricao" : "Agacha e pega o sabonete ou shampoo no chão"},
+      {"id" : 23,"descricao" : "Abre e fecha box/cortinado"},
+      {"id" : 24,"descricao" : "Abre e fecha torneira"}
+    ]
+  },
+  {
+    "tituloArea" : "F: Métodos de locomoção em ambiente interno",
+    "questoes" : [
+      {"id" : 25,"descricao" : "Rola, pivoteia, arrasta ou engatinha no chão"},
+      {"id" : 26,"descricao" : "Anda, porém segurando-se na mobília, parede, adulto ou utiliza aparelhos para apoio"},
+      {"id" : 27,"descricao" : "Anda sem auxílio"}
+    ]
+  },
+  {
+    "tituloArea" : "G: Locomoção em ambiente interno: Distância / velocidade",
+    "questoes" : [
+      {"id" : 28,"descricao" : "Move-se pelo ambiente, mas com dificuldade (cai; velocidade lenta para idade)"},
+      {"id" : 29,"descricao" : "Move-se pelo ambiente sem dificuldade"},
+      {"id" : 30,"descricao" : "Move-se entre ambientes, mas com dificuldade (cai;velocidade lenta para idade)"},
+      {"id" : 31,"descricao" : "Move-se entre ambiente sem dificuldade"},
+      {"id" : 32,"descricao" : "move-se em ambientes internos por 15 m; abre e fecha portas internas e externas"}
+    ]
+  },
+  {
+    "tituloArea" : "H: Locomoção em ambiente interno: : Arrasta / Carrega objetos",
+    "questoes" : [
+      {"id" : 33,"descricao" : "Muda de lugar intencionalmente"},
+      {"id" : 34,"descricao" : "Move-se, concomitantemente, com objetos pelo chão"},
+      {"id" : 35,"descricao" : "Carrega objetos pequenos que cabem em uma das mãos"},
+      {"id" : 36,"descricao" : "Carrega objetos grandes que requerem a utilização das duas mãos"},
+      {"id" : 37,"descricao" : "Carrega objetos frágeis ou que contenham líquidos"}
+    ]
+  },
+  {
+    "tituloArea" : "I: Locomoção em ambiente externo: Métodos ",
+    "questoes" : [
+      {"id" : 38,"descricao" : "Anda, mas segura em objetos, adultos ou aparelhos de apoio"},
+      {"id" : 39,"descricao" : "Anda sem apoio"}
+    ]
+  },
+  {
+    "tituloArea" : "J: Locomoção em ambiente externo: Distância / Velocidade",
+    "questoes" : [
+      {"id" : 40,"descricao" : "Move-se por 3-15m (comprimento de 1-5carros)"},
+      {"id" : 41,"descricao" : "Move-se por 15-30m (comprimento de 5-10carros)"},
+      {"id" : 42,"descricao" : "Move-se por 30-45m"},
+      {"id" : 43,"descricao" : "Move-se por 45m ou mais, mas com dificuldade (tropeça, velocidade lenta para idade)"},
+      {"id" : 44,"descricao" : "Move-se por 45m ou mais sem dificuldade"}
+    ]
+  },
+  {
+    "tituloArea" : "K: Locomoção em ambiente externo: Superfícies",
+    "questoes" : [
+      {"id" : 45,"descricao" : "Superfícies niveladas (passeios e ruas planas)"},
+      {"id" : 46,"descricao" : "Superfícies pouco acidentadas (asfalto rachado)"},
+      {"id" : 47,"descricao" : "Superfícies irregulares e acidentadas (gramados e ruas de cascalho)"},
+      {"id" : 48,"descricao" : "Sobe e desce rampas ou inclinações"},
+      {"id" : 49,"descricao" : "Sobe e desce meio-fio"}
+    ]
+  },
+  {
+    "tituloArea" : "L: Subir escadas",
+    "questoes" : [
+      {"id" : 50,"descricao" : "Arrasta-se, engatinha para cima por partes ou lances parciais de escadas (1-11 degraus)"},
+      {"id" : 51,"descricao" : "Arrasta, engatinha para cima por um lance de escada completo (12-15 degraus)"},
+      {"id" : 52,"descricao" : "Sobe partes de um lance de escada (ereto)"},
+      {"id" : 53,"descricao" : "Sobe um lance completo, mas com dificuldades (lento para idade)"},
+      {"id" : 54,"descricao" : "Sobe um conjunto de lances de escada sem dificuldade"}
+    ]
+  },
+  {
+    "tituloArea" : "M: Descer escadas",
+    "questoes" : [
+      {"id" : 55,"descricao" : "Arrasta-se, engatinha para baixo por partes ou lances parciais de escada (1-11 degraus)"},
+      {"id" : 56,"descricao" : "Arrasta-se, rasteja para baixo por um lance de escada"},
+      {"id" : 57,"descricao" : "Desce, ereto, um lance de escada completo (12-15 degraus)"},
+      {"id" : 58,"descricao" : "Desce um lance completo, mas com dificuldades (lento para idade)"},
+      {"id" : 59,"descricao" : "Desce um conjunto de lances de escada sem dificuldade"}
+    ]
+  }
+]
